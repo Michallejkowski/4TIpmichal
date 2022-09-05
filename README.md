@@ -22,7 +22,7 @@ tr:nth-child(even) {
 </style>
 <body>
 
-<h2>HTML Table</h2>
+<h2>Tabela</h2>
 
 <table>
   <tr>
